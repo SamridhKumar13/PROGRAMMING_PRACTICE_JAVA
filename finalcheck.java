@@ -1,2 +1,0 @@
-check kare bebiyo
-
