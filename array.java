@@ -1,4 +1,4 @@
-
+// learning to  make arrays
 public class array {
 
     public static void main(String[] args) {
