@@ -4,7 +4,7 @@ public class array {
     public static void main(String[] args) {
         int arr[] = {10, 20, 30}; //? ARRAY of size  3
         for (int i : arr) {
-            System.out.println(i);
+            System.out.println(i); //? HERE it is printing the value of the array . 
 
         }
 
