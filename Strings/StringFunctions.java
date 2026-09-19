@@ -28,6 +28,7 @@ System.out.println(xyz.toLowerCase());
 
 //? Substring 
 String  bcd =" My name is Samridh Kumar ";
+//?  SubString is used to print a new string from an existing string 
 
 System.out.println(bcd.substring(3,8));
 
