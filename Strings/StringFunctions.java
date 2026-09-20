@@ -15,8 +15,8 @@ System.out.println(str.equalsIgnoreCase(name));
 //? blank -> empty or sirf Spaces hai String me
 
 String abc= "";
-System.out.println(abc.length());
-System.out.println(abc.isEmpty());
+System.out.println(abc.length()); //? used to check the length of the array
+System.out.println(abc.isEmpty()); //? used to check if the string is emppty or not
 System.out.println(abc.isBlank());
 
 
