@@ -30,7 +30,7 @@ System.out.println(xyz.toLowerCase());
 String  bcd =" My name is Samridh Kumar ";
 //?  SubString is used to print a new string from an existing string 
 
-System.out.println(bcd.substring(3,8));
+System.out.println(bcd.substring(3,8)); //? SUB STIRNG STARING A ND ENDING PINTS 
 
 //?  .contains()  ->  check that the given character is belonging or not 
 System.out.println(bcd.contains("i"));
