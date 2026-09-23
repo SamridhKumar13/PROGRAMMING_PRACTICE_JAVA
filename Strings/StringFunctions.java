@@ -37,7 +37,11 @@ System.out.println(bcd.contains("i"));
 int number = 10;
 String test= String.valueOf(number);//? String.valueof() is used to change the data type 
 System.out.println(number +1);
-System.out.println(test + 1); //? now its a string so it will be concatinated..
+System.out.println(test + 1); //? now its a string so it will be concatinated.
+
+System.out.println(xyz.startsWith("M")); //? checks that if the string is starting with given char or not .
+System.out.println(xyz.endsWith(" ")); //? checks that if the string is ending  with given char or not .
+
 
 }
 }
