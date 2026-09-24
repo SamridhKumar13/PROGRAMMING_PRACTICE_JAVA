@@ -22,7 +22,7 @@ System.out.println(abc.isBlank());
 
 String xyz= "  Samridh  ";
 System.out.println( xyz.trim());
-System.out.println(xyz.toUpperCase()); //? convert the string into upper case
+System.out.println(xyz.toUpperCase()); //? convert the string into upper case.
 System.out.println(xyz.toLowerCase());
 
 
