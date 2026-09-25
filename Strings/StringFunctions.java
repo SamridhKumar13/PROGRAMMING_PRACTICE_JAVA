@@ -20,7 +20,7 @@ System.out.println(abc.isEmpty());
 System.out.println(abc.isBlank());
 
 
-String xyz= "  Samridh  ";
+String xyz= "  Samridh  "; //? a string created of name xyz.
 System.out.println( xyz.trim());
 System.out.println(xyz.toUpperCase()); //? convert the string into upper case.
 System.out.println(xyz.toLowerCase());
