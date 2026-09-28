@@ -32,7 +32,7 @@ String  bcd =" My name is Samridh Kumar ";
 System.out.println(bcd.substring(3,8));
 
 //?  .contains()  ->  check that the given character is belonging or not 
-System.out.println(bcd.contains("i"));//? used to find elements 
+System.out.println(bcd.contains("i"));//? used to find elements ...
 
 int number = 10;
 String test= String.valueOf(number);//? String.valueof() is used to change the data type 
