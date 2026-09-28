@@ -41,7 +41,7 @@ System.out.println(test + 1); //? now its a string so it will be concatinated.
 
 System.out.println(xyz.startsWith("M")); //? checks that if the string is starting with given char or not .
 System.out.println(xyz.endsWith(" ")); //? checks that if the string is ending  with given char or not .
-
+//int a;
 
 }
 }
