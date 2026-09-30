@@ -1,3 +1,5 @@
+
+//? PRACTICE PATTERN 
 public class patternprac {
 
     
