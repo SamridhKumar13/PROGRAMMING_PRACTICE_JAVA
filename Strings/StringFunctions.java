@@ -14,7 +14,7 @@ System.out.println(str.equalsIgnoreCase(name));
 //? Empty -> length=0
 //? blank -> empty or sirf Spaces hai String me
 
-String abc= "";
+String abc= ""; //? abc is an empty string 
 System.out.println(abc.length());
 System.out.println(abc.isEmpty());
 System.out.println(abc.isBlank());
@@ -22,13 +22,13 @@ System.out.println(abc.isBlank());
 
 String xyz= "  Samridh  "; //? a string created of name xyz.
 System.out.println( xyz.trim());
-System.out.println(xyz.toUpperCase()); //? convertING the string into upper case.
+System.out.println(xyz.toUpperCase()); //? converting  the string into upper case.
 System.out.println(xyz.toLowerCase());
 
 
 //? Substring 
 String  bcd =" My name is Samridh Kumar ";
-//?  SubString is used to print a new string from an existing string 
+//?  SubString is used to print a new string from an existing strings  
 System.out.println(bcd.substring(3,8));
 
 //?  .contains()  ->  check that the given character is belonging or not 
